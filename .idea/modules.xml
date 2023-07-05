@@ -2,6 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/escolar/academia.iml" filepath="$PROJECT_DIR$/escolar/academia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coa-api/coa-api.iml" filepath="$PROJECT_DIR$/coa-api/coa-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-server-api/config-server-api.iml" filepath="$PROJECT_DIR$/config-server-api/config-server-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/discover-service/discover-service.iml" filepath="$PROJECT_DIR$/discover-service/discover-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway/gateway.iml" filepath="$PROJECT_DIR$/gateway/gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway-server/gateway-server.iml" filepath="$PROJECT_DIR$/gateway-server/gateway-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pagos-api/pagos-api.iml" filepath="$PROJECT_DIR$/pagos-api/pagos-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/sistema-academia.iml" filepath="$PROJECT_DIR$/.idea/sistema-academia.iml" />
     </modules>
   </component>

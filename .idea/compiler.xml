@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="config-server-api" />
+        <module name="discover-service" />
+        <module name="academia" />
+        <module name="gateway-server" />
+        <module name="coa-api" />
+        <module name="gateway" />
+        <module name="pagos-api" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="academia" target="17" />
+      <module name="coa-api" target="17" />
+      <module name="config-server-api" target="17" />
+      <module name="discover-service" target="17" />
+      <module name="gateway" target="17" />
+      <module name="gateway-server" target="17" />
+      <module name="pagos-api" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="academia" options="-parameters" />
+      <module name="coa-api" options="-parameters" />
+      <module name="config-server-api" options="-parameters" />
+      <module name="discover-service" options="-parameters" />
+      <module name="gateway" options="-parameters" />
+      <module name="gateway-server" options="-parameters" />
+      <module name="pagos-api" options="-parameters" />
+    </option>
+  </component>
+</project>
