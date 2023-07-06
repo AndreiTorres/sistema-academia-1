@@ -1,8 +1,9 @@
 package edu.uday.sie.entity;
 
-import jakarta.persistence.*;
 import lombok.Data;
 import lombok.NoArgsConstructor;
+
+import javax.persistence.*;
 
 @Entity
 @Table(name = "costo_materias")
