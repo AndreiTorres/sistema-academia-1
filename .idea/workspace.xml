@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d764259-a739-4e7b-8bf4-bfe837f7bff0" name="Changes" comment="" />
+    <list default="true" id="8d764259-a739-4e7b-8bf4-bfe837f7bff0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-data/coe.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config-data/coe.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-server-api/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config-server-api/src/main/resources/application.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,7 +46,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.PagoApiApplication">
+  <component name="RunManager" selected="Spring Boot.ConfigServerApiApplication">
     <configuration name="pagos-api [clean]" type="MavenRunConfiguration" factoryName="Maven">
       <MavenSettings>
         <option name="myGeneralSettings" />
@@ -244,6 +248,7 @@
       <workItem from="1688597729138" duration="167000" />
       <workItem from="1688598003687" duration="5262000" />
       <workItem from="1688688406358" duration="137000" />
+      <workItem from="1688952857225" duration="1375000" />
     </task>
     <servers />
   </component>
