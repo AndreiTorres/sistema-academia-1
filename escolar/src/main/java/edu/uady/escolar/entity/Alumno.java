@@ -19,7 +19,7 @@ public class Alumno {
     private String matricula;
     private String nombre;
     private String apellidos;
-    private LocalDate edad;
+    private int edad;
     @Column(name = "sexo", precision = 1, length = 1)
     private char sexo;
     @Column(name = "licenciatura_id")

@@ -11,6 +11,8 @@
         <option value="$PROJECT_DIR$/gateway-server/pom.xml" />
         <option value="$PROJECT_DIR$/sie-api/pom.xml" />
         <option value="$PROJECT_DIR$/pagos-api/pom.xml" />
+        <option value="$PROJECT_DIR$/uady-producer/pom.xml" />
+        <option value="$PROJECT_DIR$/email-service/pom.xml" />
       </list>
     </option>
   </component>

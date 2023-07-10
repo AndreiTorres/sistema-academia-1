@@ -13,7 +13,6 @@ import org.springframework.context.annotation.PropertySource;
 import org.springframework.core.env.Environment;
 
 @SpringBootApplication
-@Configuration
 @PropertySource(value = "application.properties")
 @Log4j2
 @EnableFeignClients
