@@ -12,7 +12,6 @@
       <module fileurl="file://$PROJECT_DIR$/pagos-api/pagos-api.iml" filepath="$PROJECT_DIR$/pagos-api/pagos-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/sistema-academia.iml" filepath="$PROJECT_DIR$/.idea/sistema-academia.iml" />
       <module fileurl="file://$PROJECT_DIR$/uady-producer/uady-producer.iml" filepath="$PROJECT_DIR$/uady-producer/uady-producer.iml" />
-      <module fileurl="file://$PROJECT_DIR$/email-service/.mvn/wrapper/wrapper.iml" filepath="$PROJECT_DIR$/email-service/.mvn/wrapper/wrapper.iml" />
     </modules>
   </component>
 </project>

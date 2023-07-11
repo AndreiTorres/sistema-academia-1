@@ -24,14 +24,19 @@ spring:
           ssl:
             trust: "*"
         debug: true
+  security:
+    user:
+      name: admin
+      password: 123456
 
 
 server:
   port: 6069
 
+
 email:
   props:
     gmail:
-      user: 
-      password:
+      user: andreitorres95@gmail.com
+      password: jeoteujzfctfxfqd
 

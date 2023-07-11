@@ -17,12 +17,6 @@
         <module name="pagos-api" />
         <module name="uady-producer" />
       </profile>
-      <profile name="Annotation profile for Unknown" enabled="true">
-        <sourceOutputDir name="../../target/generated-sources/annotations" />
-        <sourceTestOutputDir name="../../target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <module name="wrapper" />
-      </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="academia" target="17" />
