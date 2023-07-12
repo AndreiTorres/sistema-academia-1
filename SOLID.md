@@ -1,4 +1,4 @@
-### Principios SOLID en el Sistema Académico ✔
+### Principios SOLID en Spring Boot ✔
 
 **SOLID** es un conjunto de 5 principios de diseño de software que promueven la modularidad, la flexibilidad y la
 facilidad de mantenimiento en el desarrollo de software. El acrónimo SOLID se origina de los siguientes principios.
